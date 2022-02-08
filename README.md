@@ -1,5 +1,5 @@
 # Project Name
-> BoomBikes Sharing Demand - Linear Regression Assignment
+> BoomBikes Sharing Demand - Linear Regression
 
 
 ## Table of Contents
