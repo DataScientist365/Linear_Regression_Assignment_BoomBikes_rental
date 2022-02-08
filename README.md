@@ -3,11 +3,11 @@
 
 
 ## Table of Contents
-* [General Information](#General_info)
-* [Business Goal](#Business_Goal)
-* [Data Dictionary](#Data_Dictionary)
-* [Technologies Used](#Technologies_Used)
-* [Conclusions](#conclusions)
+* General Information
+* Business Goal
+* Data Dictionary
+* Technologies Used
+* Conclusions
 
 <!-- You can include any other section that is pertinent to your problem -->
 
